@@ -52,3 +52,7 @@ if __name__ == '__main__':
     j = JuliusReceiver()
     while not rospy.is_shutdown():
         j.pub_command(0.999)        #whileの中はこの1行だけに
+
+# Copyright 2016 Ryuichi Ueda
+# Released under the MIT License.
+# To make line numbers be identical with the book, this statement is written here. Don't move it to the header.
