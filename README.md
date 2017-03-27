@@ -7,7 +7,8 @@ Voice controller for Raspberrry Pi Mouse based on Julius
 
 また、
 
-command.jconf
-jnas-tri-3k16-gid.binhmm
-logicalTri
-を「Juliusディクテーションキット」から複製・改変して使用しています。 「Juliusディクテーションキット」のライセンスに従い、 LICENSE.dictation-kitを同梱しています。
+* command.jconf
+* jnas-tri-3k16-gid.binhmm
+* logicalTri
+
+を「Juliusディクテーションキット」から複製・改変して使用しています。 「Juliusディクテーションキット」のライセンスに従い、LICENSE.dictation-kitを同梱しています。
